@@ -32,4 +32,4 @@ setup(
 
 # python setup.py sdist
 # python setup.py bdist_wheel
-# twine upload ./dist/pifields-x.x.x-py3-none-any.whl
+# twine upload ./dist/pyfieldlib-1.0.0-py3-none-any.whl
